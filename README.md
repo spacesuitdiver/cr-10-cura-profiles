@@ -8,7 +8,7 @@ You can install these profiles using one of the methods below, file locations ar
 
 ### via CURA
 
-You can use CURA to manually import this profiles in the respective `Profiles` or `Materials` sections in preferences. <kbd>CMD</kbd>+<kbd>,</kbd> on OSX.
+You can use CURA to manually import this profiles in the respective `Profiles` or `Materials` sections in preferences. <kbd>CMD</kbd> + <kbd>,</kbd> on OSX.
 
 ### via File System
 
@@ -44,4 +44,4 @@ If you'd like to contribute to this set of profiles feel free to submit a Pull R
 
 If you feel these profiles have helped your prints please consider staring this repo and/or buying me a beverage 🍺 below.
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](paypal.me/leblaaanc)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/leblaaanc)
