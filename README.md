@@ -2,15 +2,17 @@
 
 This repository contains quality and material profiles specific to the Creality CR-10 printer for `CURA 2.7`, they *should* also work with `CURA 2.6`.
 
-## 🛠 Installation
+## 🛠 Useage
+
+### Installation
 
 You can install these profiles using one of the methods below, file locations are for OSX but other O/S should have a similar location.
 
-### via CURA
+#### via CURA
 
 You can use CURA to manually import this profiles in the respective `Profiles` or `Materials` sections in preferences using <kbd>CMD</kbd> + <kbd>,</kbd> on OSX.
 
-### via File System
+#### via File System
 
 If you name your printer `CR-10` you should be able to simply merge the quality and material directories into your `Application Support` directory. You can also install/update your profiles with the following command (unfortunately CURA doesn't support any sort of symlinking) but I suggest you select a prebuilt set of profiles and then exiting CURA otherwise it will startup not being able to load your printer profile:
 
@@ -18,9 +20,14 @@ If you name your printer `CR-10` you should be able to simply merge the quality 
 rsync -ahv {quality,materials} ~/Library/Application\ Support/cura/2.7
 ```
 
+### Bed Adhesion
+
+* *PLA* - These profiles are intended to yield working results directly on glass simply with a heated and *level* bed but you should hedge your bets and use a light coat of glue stick. I do use an IKEA mirror because the stock glass I could not level.
+* *ABS* - This profile worked with painters tape on the bed. I could not get the glue stick to work, I intend to move on to PEI as soon as it's in stock and provide some more print settings and suggestions
+
 ## 💄 Qualities
 
-No quality will have supports or ironing enabled by default however simply enabling either should yield good results.
+No quality will have supports or ironing enabled by default however simply enabling either should yield good results as I've tweaked them a bit.
 
 ### High Quality PLA
 
