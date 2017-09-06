@@ -8,9 +8,9 @@
       <label>Black ABS</label>
     </name>
     <GUID>fec534f1-7082-476a-84e2-e29f500c42c7</GUID>
-    <description>Fast, safe and reliable printing. PLA is ideal for the fast and reliable printing of parts and prototypes with a great surface quality.</description>
-    <adhesion_info>Print on bare glass. Use tape for cold build plates.</adhesion_info>
-    <color_code>#ffc924</color_code>
+    <description>Tough and durable. ABS is good for mechanical parts. It is impact resistant, dimensionally stable and handles temperatures up to 85ºC.</description>
+    <adhesion_info>Print in an enclosure to avoid warping on larger parts on tape or PEI.</adhesion_info>
+    <color_code>#000000</color_code>
     <version>1</version>
     <compatible>True</compatible>
   </metadata>
