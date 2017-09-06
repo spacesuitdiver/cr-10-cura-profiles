@@ -2,7 +2,7 @@
 
 This repository contains quality and material profiles for `CURA 2.7`, they *should* also work with `CURA 2.6`.
 
-## 🕶 Installation
+## 🛠 Installation
 
 You can install these profiles using one of the methods below, file locations are for OSX but other O/S should have a similar location.
 
