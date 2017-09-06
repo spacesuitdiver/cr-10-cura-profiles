@@ -32,16 +32,16 @@ This profile is what I use for prints that are medium to large sized (more than 
 
 This is the same as `Normal Quality PLA` profile but sped down to 40mm/s so ABS has time to adhere to the build surface.
 
-## Materials
+## 🏗 Materials
 
-I've found both brand and color make a difference so as I buy more filaments I will test them each with a tempurature tower. The `Zyltech` findings have been confirmed by me and also the Zyltech Facebook group. The `CCTREE` brand is usually what comes with the CR-10 as a sample roll.
+I've found both brand and color make a difference so as I buy more filaments I will test them each with a tempurature and retraction tower. The settings in these profiles are the best quality achieved without sacrificing strength. I would like to personally test each filament's strength and quality so if you'd like to send me a sample roll please messages me either here or on Twitter (@leblaaanc).
 
 ## 💪 Contributing
 
-If you'd like to contribute to this set of profiles feel free to submit a pull request. 
+If you'd like to contribute to this set of profiles feel free to submit a Pull Request.
 
 ## ❤️ Give Back
 
-If you feel these profiles have helped your prints please, consider staring this repo and/or buying me a beverage 🍺 below. Thanks!
+If you feel these profiles have helped your prints please consider staring this repo and/or buying me a beverage 🍺 below.
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](paypal.me/leblaaanc)
