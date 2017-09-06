@@ -23,7 +23,7 @@ rsync -ahv {quality,materials} ~/Library/Application\ Support/cura/2.7
 ### Bed Adhesion
 
 * *PLA* - These profiles are intended to yield working results directly on glass simply with a heated and *level* bed but you should hedge your bets and use a light coat of glue stick. I do use an IKEA mirror because the stock glass I could not level.
-* *ABS* - This profile worked with painters tape on the bed. I could not get the glue stick to work, I intend to move on to PEI as soon as it's in stock and provide some more print settings and suggestions
+* *ABS* - This profile worked with painters tape on the bed. I could not get the glue stick to work as it seemed to evaporate, I intend to move on to PEI as soon as it's in stock and provide some more print settings and suggestions
 
 ## 💄 Qualities
 
