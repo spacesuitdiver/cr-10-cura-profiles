@@ -1,6 +1,6 @@
 # CR-10 Cura Profiles
 
-This repository contains quality and material profiles for `CURA 2.7`, they *should* also work with `CURA 2.6`.
+This repository contains quality and material profiles specific to the Creality CR-10 printer for `CURA 2.7`, they *should* also work with `CURA 2.6`.
 
 ## 🛠 Installation
 
