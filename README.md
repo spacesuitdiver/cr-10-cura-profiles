@@ -14,7 +14,7 @@ You can use CURA to manually import this profiles in the respective `Profiles` o
 
 #### via File System
 
-If you name your printer `CR-10` you should be able to simply merge the quality and material directories into your `Application Support` directory. You can also install/update your profiles with the following command (unfortunately CURA doesn't support any sort of symlinking) but I suggest you select a prebuilt set of profiles and then exiting CURA otherwise it will startup not being able to load your printer profile:
+If you name your printer `CR-10` you should be able to simply merge the quality and material directories into your `Application Support` directory. You can also install/update your profiles with the following command (unfortunately CURA doesn't support any sort of symlinking) but if you are updating be sure to select a prebuilt set of profiles and then exit CURA otherwise it will startup not being able to load your printer profile:
 
 ```
 rsync -ahv {quality,materials} ~/Library/Application\ Support/cura/2.7
