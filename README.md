@@ -8,7 +8,7 @@ You can install these profiles using one of the methods below, file locations ar
 
 ### via CURA
 
-You can use CURA to manually import this profiles in the respective `Profiles` or `Materials` sections in preferences. <kbd>CMD</kbd> + <kbd>,</kbd> on OSX.
+You can use CURA to manually import this profiles in the respective `Profiles` or `Materials` sections in preferences using <kbd>CMD</kbd> + <kbd>,</kbd> on OSX.
 
 ### via File System
 
@@ -19,6 +19,8 @@ rsync -ahv {quality,materials} ~/Library/Application\ Support/cura/2.7
 ```
 
 ## 💄 Qualities
+
+No quality will have supports or ironing enabled by default however simply enabling either should yield good results.
 
 ### High Quality PLA
 
