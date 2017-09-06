@@ -1,5 +1,3 @@
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](paypal.me/leblaaanc)
-
 # CR-10 Cura Profiles
 
 This repository contains quality and material profiles for `CURA 2.7`, they *should* also work with `CURA 2.6`.
@@ -40,4 +38,6 @@ If you'd like to contribute to this set of profiles feel free to submit a pull r
 
 ## ❤️ Give Back
 
-If you feel these profiles have helped your prints please, consider staring this repo and/or buying me a beverage 🍺 to keep me motivated above.
+If you feel these profiles have helped your prints please, consider staring this repo and/or buying me a beverage 🍺 below. Thanks!
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](paypal.me/leblaaanc)
