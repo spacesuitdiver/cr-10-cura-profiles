@@ -1,6 +1,6 @@
 # CR-10 Cura Profiles
 
-This repository contains quality and material profiles specific to the Creality CR-10 printer for `CURA 2.7`, they *should* also work with `CURA 2.6`.
+This repository contains quality and material profiles specific to the Creality CR-10 printer for `CURA 3.0`, they *should* also work with `CURA 2.7` and `CURA 2.6` as they only apply basic settings available to each of these versions but you may have to change the settings_version in the `[metadata]` section of the file.
 
 ## 🛠 Usage
 
@@ -17,7 +17,7 @@ You can use CURA to manually import this profiles in the respective `Profiles` o
 If you name your printer `CR-10` you should be able to simply merge the quality and material directories into your `Application Support` directory. You can also install/update your profiles with the following command (unfortunately CURA doesn't support any sort of symlinking) but if you are updating be sure to select a prebuilt set of profiles and then exit CURA otherwise it will startup not being able to load your printer profile:
 
 ```
-rsync -ahv {quality,materials} ~/Library/Application\ Support/cura/2.7
+rsync -ahv {quality,materials} ~/Library/Application\ Support/cura/3.0
 ```
 
 ### Bed Adhesion
