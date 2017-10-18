@@ -39,7 +39,7 @@ This profile is what I use for prints that are medium to large sized (more than 
 
 ### Normal Quality ABS
 
-This is the same as `Normal Quality PLA` profile but sped down to 40mm/s so ABS has time to adhere to the build surface.
+This is the same as `Normal Quality PLA` profile but slowed down to 40mm/s so ABS has time to adhere to the build surface.
 
 ## 🏗 Materials
 
